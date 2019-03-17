@@ -1,0 +1,24 @@
+
+what will be my input shape if i have 4 independent and 1 dependent variable for a regression problem.
+
+what will be the shape of my input layer if my image size [256,256,3].
+what input shape is expected by a convolution layer and what will be the  output shape.
+what input shape is expected by a max pooling layer and what will be the  output shape.
+what input shape is expected by a fully connnected layer and what will be the  output shape.
+can we give a variable shape of input image to image classification network.
+how to calculate the number of parameters in a neural network.
+how backpropagation is performed in conwolution layers.
+
+my mnist digit classifier network has an accuracy of 98%, i add one more hidden layer to it and the accuracy comes down to 23%. what are the probable causes for this behaviour.
+why the loss func
+what is vanishing gradient problem.  how to solve it?
+what is exploding gradient problem.  how to solve it?
+
+what is softmax? when and where do we use it?
+why image classsification and object detection networks use relu activation, what are its disadvantages.
+
+
+https://hackernoon.com/everything-you-need-to-know-about-neural-networks-8988c3ee4491
+https://www.quora.com/How-are-variably-shaped-and-sized-images-given-inputs-to-convoluted-neural-networks
+http://cs231n.github.io/convolutional-networks/
+https://pgaleone.eu/tensorflow/2018/07/28/understanding-tensorflow-tensors-shape-static-dynamic/

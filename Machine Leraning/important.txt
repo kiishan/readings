@@ -1,0 +1,44 @@
+(15/03/2019) Multiple LR 
+
+(15/03/2019) Logistic regression
+    https://www.saedsayad.com/logistic_regression.htm
+    
+(16/03/2019) Tree Models
+    https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/
+
+(16/03/2019) Dimentionality Reduction
+    https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/
+
+(16/03/2019) SVM
+    https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/
+
+(16/03/2019) KNN
+    https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/
+    https://machinelearningmastery.com/k-nearest-neighbors-for-machine-learning/
+    https://towardsdatascience.com/introduction-to-k-nearest-neighbors-3b534bb11d26
+    https://towardsdatascience.com/k-nearest-neighbours-introduction-to-machine-learning-algorithms-18e7ce3d802a
+
+(16/03/2019) H-clustering
+    https://www.saedsayad.com/clustering_hierarchical.htm
+    https://www.analyticsvidhya.com/blog/2016/11/an-introduction-to-clustering-and-different-methods-of-clustering/
+
+(16/03/2019) K-Means
+    https://www.datascience.com/blog/k-means-clustering
+    https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1
+    https://www.saedsayad.com/clustering_kmeans.htm
+
+(17/03/2019) Natural Language Processing
+    pos tagger 
+    ner tagger 
+    sentance parsing 
+    word embeddings 
+    text classification 
+    topic modeling 
+    document summarization 
+    document similarity
+    sentiment analysis 
+    question answering
+    
+    
+ToDos
+Hypothesis Testing
